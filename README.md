@@ -12,9 +12,7 @@
 
 Here, the system uses Python, OpenCV and Tesseract to identify vehicles by their Number plates and stored them along with the date and time in a CSV file. OpenCV is used to detect number plates and Python Tesseract is used to extract characters and digits from the number plates. 
 
-&nbsp;
-
-![Capture1](https://user-images.githubusercontent.com/76877184/103545035-01c3ce00-4ec7-11eb-9ec4-0f31e3bcf608.PNG)
+https://github.com/austin1902/number-plate-detection-of-vehicles/blob/main/output/Bilateral%2520Filter.jpg
 
 ![Capture2](https://user-images.githubusercontent.com/76877184/103545041-038d9180-4ec7-11eb-8224-cf97ffa3d76f.PNG)
 
