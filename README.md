@@ -10,13 +10,4 @@
 
 3.	Character Recognition – This stage is where the segmented characters are identified.
 
-Here, the system uses Python, OpenCV and Tesseract to identify vehicles by their Number plates and stored them along with the date and time in a CSV file. OpenCV is used to detect number plates and Python Tesseract is used to extract characters and digits from the number plates. 
-
-
-![Capture2](https://user-images.githubusercontent.com/76877184/103545041-038d9180-4ec7-11eb-8224-cf97ffa3d76f.PNG)
-
-![Capture3](https://user-images.githubusercontent.com/76877184/103545043-04262800-4ec7-11eb-999f-c9b94571abcd.PNG)
-
-![Capture4](https://user-images.githubusercontent.com/76877184/103545045-04bebe80-4ec7-11eb-8c35-2bfa5353a90e.PNG)
-
-![Capture5](https://user-images.githubusercontent.com/76877184/103545047-04bebe80-4ec7-11eb-8c72-8b2bc4fb1c09.PNG)
+Here, the system uses Python, OpenCV and Tesseract to identify vehicles by their Number plates and stored them along with the date and time in a CSV file. OpenCV is used to detect number plates and Python Tesseract is used to extract characters and digits from the number plates.
